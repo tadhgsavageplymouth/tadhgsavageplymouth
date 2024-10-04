@@ -3,7 +3,7 @@ I'm Tadhg, a passionate developer with a love for exploring cutting-edge technol
 
 ## Projects
 - **Cinema Booking System**: A full-stack project using MongoDB, WebSockets, and Node.js.
-- **Travel Destination Recommender**: Built from scratch using a custom vector database for personalized suggestions.
+- **Travel Destination Recommender**: Built from scratch using a custom vector database for personalised suggestions.
 - **Android App Development**: Developing mobile applications with a focus on user-centric designs and robust back-end integrations.
 - **Flask-based ML App**: Building machine learning-powered web applications using Flask for rapid prototyping.
 
